@@ -10,7 +10,7 @@
 "cat":"Animation, Adventure, Family",
  "rate":"8.0",
 
-"movie":"{
+"movie":{
 "sd":"https://drive.google.com/file/d/12RPUgH4bRg_OiMywJnjLZ2vvK4v3M3tf/view?usp=drivesdk",
 "sdZ":"443 MB",
 
@@ -19,9 +19,9 @@
 
 "fhd":"",
 "fhdZ":"unavailable"
-}",
+},
 
-"serie":"[
+"serie":[
 {
 "ep":"",
 "link":""},
@@ -29,7 +29,7 @@
 "ep":"",
 "link":""}
 
-]",
+],
 
 
 "review":"ဒီကားက 2019 တုန်းက Netflix ကထွက်ရှိခဲ့တဲ့ Anime ပဲဖြစ်ပါတယ်။ dragon quest ဂိမ်းကို animation
@@ -64,7 +64,7 @@
 "cat":"Comedy, Drama, Romance",
  "rate":"9.0",
 
-"movie":"{
+"movie":{
 "sd":"",
 "sdZ":"",
 
@@ -73,9 +73,9 @@
 
 "fhd":"",
 "fhdZ":""
-}",
+},
 
-"serie":"[
+"serie":[
 {
 "ep":"Episode 1",
 "link":""},
@@ -88,7 +88,7 @@
  {
 "ep":"Ep 4",
 "link":""}
-]",
+],
 
 "review":"မနေ့ညက Disney+ Hotstarကနေ ဖြန့်ချိခဲ့တဲ့ မင်းသားချော ဆူရှန့်ကားသစ် လာပါပြီ။
 
