@@ -3,6 +3,17 @@
 "title":"First MOvuie",
 "poster":"",
 "rate":"9",
+ 
+ "movie":{
+ "sd":"",
+"sdZ":"",
+
+"hd":"",
+"hdZ":"",
+
+"fhd":"",
+"fhdZ":""
+ },
  "serie":[
  {"ep":"",
  "link":""},{"ep":"",
@@ -13,6 +24,16 @@
 "title":fgdkdsll"",
 "poster":"",
 "rate":"8",
+  "movie":{
+ "sd":"",
+"sdZ":"",
+
+"hd":"",
+"hdZ":"",
+
+"fhd":"",
+"fhdZ":""
+ },
    "serie":[
  {"ep":"",
  "link":""},{"ep":"",
