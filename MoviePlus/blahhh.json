@@ -2,11 +2,21 @@
 {
 "title":"First MOvuie",
 "poster":"",
-"rate":"9"
+"rate":"9",
+ "serie":[
+ {"ep":"",
+ "link":""},{"ep":"",
+ "link":""}
+ ]
 },
  {
 "title":fgdkdsll"",
 "poster":"",
-"rate":"8"
+"rate":"8",
+   "serie":[
+ {"ep":"",
+ "link":""},{"ep":"",
+ "link":""}
+ ]
 }
 ]
