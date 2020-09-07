@@ -1,7 +1,10 @@
 [
 {
- "Bolseries":true,
-"title":"First MOvuie",
+"Bolseries":false,
+"type":"movie",
+ "season":"",
+ "cate":"",
+"title":"First Movie",
 "poster":"",
 "rate":"9",
  
@@ -23,7 +26,11 @@
 },
  {
  "Bolseries":true,
-"title":fgdkdsll"",
+  "type":"series",
+ "season":"Season 1",
+ "cate":"",
+  
+"title":"First Series",
 "poster":"",
 "rate":"8",
   "movie":{
@@ -37,8 +44,13 @@
 "fhdZ":""
  },
    "serie":[
- {"ep":"",
- "link":""},{"ep":"",
+ {"ep":"ep 1",
+ "link":""},
+ {"ep":"ep 2",
+ "link":""},
+    {"ep":"ep 3",
+ "link":""},
+ {"ep":"ep 4",
  "link":""}
  ]
 }
