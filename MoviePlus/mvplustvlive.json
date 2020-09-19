@@ -1,5 +1,17 @@
 [
-{"title":"",
-"logo":"",
-"link":""}
+{"title":"Mahar",
+"logo":"https://1.bp.blogspot.com/-93zrrdGMwzg/X2YMP-T3hhI/AAAAAAAAABo/C1mIl6vqLxYJueEYga1XNUbx_8IcLAHQwCLcBGAsYHQ/s225/mahar.png",
+"link":"http://maharlive.b-cdn.net/stream.m3u8"},
+
+{"title":"5 Plus",
+"logo":"https://1.bp.blogspot.com/-2sTCEDuYHWk/X2YMPfhG2XI/AAAAAAAAABg/h8H0jcHlNyMqQCxccibzJp0nNcHbXACjwCLcBGAsYHQ/s225/5plus.png",
+"link":"http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8"},
+
+{"title":"Fortune TV",
+"logo":"https://1.bp.blogspot.com/-ScFlCpQ-jyw/X2YMPpBQdYI/AAAAAAAAABk/9VOdtGkmnWonymNwFtZKctrikyAMKLn1QCLcBGAsYHQ/s225/fortune.jpg",
+"link":"http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8"},
+
+{"title":"MNTV",
+"logo":"https://1.bp.blogspot.com/-3bbDl7mf_2M/X2YMQhdfpeI/AAAAAAAAABs/peWQUEEIgTEpwwoVGV3oYi6Z2MAfL__GgCLcBGAsYHQ/s225/mntv.jpg",
+"link":"http://edge-stream-07.otv.co.th./livestream/MNTV.stream/chunklist_w195218413.m3u8"}
 ]
