@@ -5,13 +5,13 @@
 
 {"title":"5 Plus",
 "logo":"https://1.bp.blogspot.com/-2sTCEDuYHWk/X2YMPfhG2XI/AAAAAAAAABg/h8H0jcHlNyMqQCxccibzJp0nNcHbXACjwCLcBGAsYHQ/s225/5plus.png",
-"link":"http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8"},
+"link":"https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8"},
 
 {"title":"Fortune TV",
 "logo":"https://1.bp.blogspot.com/-ScFlCpQ-jyw/X2YMPpBQdYI/AAAAAAAAABk/9VOdtGkmnWonymNwFtZKctrikyAMKLn1QCLcBGAsYHQ/s225/fortune.jpg",
-"link":"http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8"},
+"link":"https://stream.myanmartvchannels.com:999/website-fortunechannelsd/website-fortunechannelsd/chunks.m3u8"},
 
 {"title":"MNTV",
 "logo":"https://1.bp.blogspot.com/-3bbDl7mf_2M/X2YMQhdfpeI/AAAAAAAAABs/peWQUEEIgTEpwwoVGV3oYi6Z2MAfL__GgCLcBGAsYHQ/s225/mntv.jpg",
-"link":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"}
+"link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8"}
 ]
