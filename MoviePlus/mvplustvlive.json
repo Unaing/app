@@ -37,6 +37,10 @@
  
  {"title":"Sony Movies",
 "logo":"https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png",
-"link":"http://51.52.156.22:8888/http/009"}
+"link":"http://51.52.156.22:8888/http/009"},
+ 
+ {"title":"PPTV",
+"logo":"https://www.usepng.com/wp-content/uploads/2020/04/89-892218_pptv-hd-pptv-300x74.png",
+"link":"http://183.182.100.184/live/pptvthai/playlist.m3u8?checkedby:iptvcat.com"}
  
 ]
