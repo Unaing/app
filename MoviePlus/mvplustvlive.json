@@ -3,19 +3,15 @@
 "logo":"https://1.bp.blogspot.com/-93zrrdGMwzg/X2YMP-T3hhI/AAAAAAAAABo/C1mIl6vqLxYJueEYga1XNUbx_8IcLAHQwCLcBGAsYHQ/s225/mahar.png",
 "link":"https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8"},
 
-{"title":"5 Plus",
-"logo":"https://1.bp.blogspot.com/-2sTCEDuYHWk/X2YMPfhG2XI/AAAAAAAAABg/h8H0jcHlNyMqQCxccibzJp0nNcHbXACjwCLcBGAsYHQ/s225/5plus.png",
-"link":"https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8"},
-
-{"title":"Fortune TV",
-"logo":"https://1.bp.blogspot.com/-ScFlCpQ-jyw/X2YMPpBQdYI/AAAAAAAAABk/9VOdtGkmnWonymNwFtZKctrikyAMKLn1QCLcBGAsYHQ/s225/fortune.jpg",
-"link":"https://stream.myanmartvchannels.com:999/website-fortunechannelsd/website-fortunechannelsd/chunks.m3u8"},
-
 {"title":"MNTV",
 "logo":"https://1.bp.blogspot.com/-3bbDl7mf_2M/X2YMQhdfpeI/AAAAAAAAABs/peWQUEEIgTEpwwoVGV3oYi6Z2MAfL__GgCLcBGAsYHQ/s225/mntv.jpg",
 "link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8"},
   
  {"title":"Channel K",
 "logo":"https://www.channelkmyanmar.com/img/logo/logo.png",
-"link":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"}
+"link":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"},
+ 
+ {"title":"Mizzima TV",
+"logo":"http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png",
+"link":"http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com"}
 ]
