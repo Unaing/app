@@ -24,6 +24,12 @@
 "link":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8"},
  
   {"title":"Mahar Bawdi",
-"logo":"https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/300?cb=20191211065314",
-"link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"}
+"logo":"https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png",
+"link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
+  {"title":"Channel 9",
+"logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-a44.jpg",
+"link":"https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist_w1383033023.m3u8"}
+ 
+ 
 ]
