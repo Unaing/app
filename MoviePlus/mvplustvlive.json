@@ -33,6 +33,10 @@
  
  {"title":"MRTV",
 "logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-120x120-a44.jpg",
-"link":"http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"}
+"link":"http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"},
+ 
+ {"title":"Sony Movies",
+"logo":"https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png",
+"link":"http://51.52.156.22:8888/http/009"}
  
 ]
