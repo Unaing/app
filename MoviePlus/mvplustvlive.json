@@ -11,7 +11,19 @@
 "logo":"https://www.channelkmyanmar.com/img/logo/logo.png",
 "link":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"},
  
+ {"title":"MRTV-4",
+"logo":"http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png",
+"link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
  {"title":"Mizzima TV",
 "logo":"http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png",
-"link":"http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com"}
+"link":"http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com"},
+ 
+ {"title":"Channel 7",
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Channel7_logo.png/200px-Channel7_logo.png",
+"link":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
+  {"title":"Mahar Bawdi",
+"logo":"https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/300?cb=20191211065314",
+"link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"}
 ]
