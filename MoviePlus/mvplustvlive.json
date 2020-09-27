@@ -29,7 +29,10 @@
  
   {"title":"Channel 9",
 "logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-a44.jpg",
-"link":"https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist_w1383033023.m3u8"}
+"link":"https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist_w1383033023.m3u8"},
  
+ {"title":"MRTV",
+"logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-120x120-a44.jpg",
+"link":"http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"}
  
 ]
