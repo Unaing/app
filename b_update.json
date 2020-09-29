@@ -1,9 +1,15 @@
 {
-"code":6,
-"ver":"Come Back Later!",
+"code":7,
+"ver":"Movie Plus",
 "playstore":false;
 "force_update":false;
 "cb_later":false;
-"about_ver":"movie တော်တော်များများ ကြည့်မရတဲ့ ပြဿနာကို ပြုပြင်နေတာမို့ ဆာဗာ ခဏပိတ်ထားပါတယ်။",
-"link":"https://raw.githubusercontent.com/Unaing/app/master/update.html"
+"about_ver":"ကျွန်တော်တို့ ဒီ Bmovies app မှာ ဇာတ်လမ်း အသစ်တွေမတင်တော့ပါဘူး
+
+Bmovies ကနေ Movie Plus အမည်နဲ့ တင်ပေးသွားမှာပါ 
+
+Movie Plus မှာ ဇာတ်လမ်းတွဲတွေ တိုက်ရိုက် live တွေပါ ကြည့်လို့ရပါပြီ။
+
+ဒါ့ကြောင့်မို့ တိုက်ရိုက် ဒေါင်းလုဒ် ကနေရယူပြီး အသုံးပြုနိုင်ပါပြီ။",
+"link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
