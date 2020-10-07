@@ -21,7 +21,8 @@
  "link":""},{"ep":"",
  "link":""}
  ],
-"review":"ဒီကားကတော့ထောင်အက်ရှင်ဖိုက်တင်ကားကြိုက်နှစ်သက်တဲ့ပရိတ်သတ်ကြီးအတွက်တင်ဆက်ပေးထားတာဖြစ်ပြီးဇာတ်လမ်းလေးကလည်းကောင်းပါတယ်။မင်းသားတွေကနာမည်ကြီးတွေမပါဖူးဆိုပေမယ့်
+"review":".
+ဒီကားကတော့ထောင်အက်ရှင်ဖိုက်တင်ကားကြိုက်နှစ်သက်တဲ့ပရိတ်သတ်ကြီးအတွက်တင်ဆက်ပေးထားတာဖြစ်ပြီးဇာတ်လမ်းလေးကလည်းကောင်းပါတယ်။မင်းသားတွေကနာမည်ကြီးတွေမပါဖူးဆိုပေမယ့်
 သရုပ်ဆောင်ချက်တွေကသဘာဝကျပြီးတော့
 ထောင်တွင်းဇာတ်လမ်းစိတ်ဝင်စားတဲ့သူတွေအတွက်ကြည့်ပျော်တဲ့ဇာတ်ကားကောင်းလေးတစ်ကားဖြစ်ပါတယ်။ဇာတ်လမ်းအကျဉ်းကတော့ ထောင်ထဲမှာသူနေရာ သူအဆင့်နဲ့သူထိပ်သီးလူဆိုးတွေဆိုတာရှိကြပါတယ်။ဒီလူဆိုးတွေအချင်းချင်းဖြစ်ကြတဲ့ရန်ပွဲတွေအကြောင်းကိုဇာတ်လမ်းအဓိကဆင်ပေးထားတာပါ။ထောင်ဆိုတာကဘုမသိဘမသိနဲ့ မတရားခံရပြီးရောက်လာတဲ့သူတွေလည်းရှိသလိုတကယ်ဆိုးမိုက်ပေတေလို့ထောင်နန်းစံနေရသူလည်းရှိပါတယ်။ဇာတ်လမ်းကိုကောင်လေး တစ်ယောက် မတရားခံရပြီးထောင်ထဲကိုရောက်လာချိန်တွေ့ကြုံရတဲ့ အခက်အခဲအဖြစ်အပျက်လေးတွေနဲ့အစပျိုးထားပါတယ်။စားသောက်ဆိုင်ပိုင်ရှင်သားဖြစ်သူအီမန်အီဆိုတဲ့ကောင်လေးက သူအဖေကိုအကြွေးတောင်းတဲ့လူဆိုးတွေကနှိပ်စက်လို့ဓါးကိုင်ပြီး ဝင်ကယ်ရာကနေ ထောင်ထဲကိုလူသတ်ရန်ကြံစည်လို့ဆိုပြီးရောက်လာခဲ့ပါတယ်။ဒီထဲရောက်ထဲအခါမှာသူထက်ဆရာကျပြီး ဆိုးတဲ့မိုက်တဲ့သူတွေထားတဲ့အကြမ်းဖက်မှုအခန်းမှာသူနေရပါတယ်။အခန်းမှာတကယ့်ထောင်တွင်းလူမိုက်ဆရာကြီးထိပ်သီးတွေလည်းနေကြပါတယ်။အဲ့လိုနေစဉ်ကာလအတွင်းသူကြုံတွေ့ရတဲ့ပင်ပန်းဆင်းရဲမှုတွေ၊ထောင်တွင်းအနိုင်အထက်ပြုတာတွေနဲ့ လူဆိုးလူမိုက်တွေတောင်တစ်ခန်းတည်းတူတူနေရင်သံယောဇဉ်ဖြစ်သွားနိုင်တယ်ဆိုတဲ့အကြောင်းလေးကိုဇာတ်လမ်းလေးနဲ့တင်ဆက်ထားပါတယ်။ကိုရီးယားကားထုံးစံအတိုင်း Action သီးသန့်မဟုတ်ပဲဇာတ်လမ်း ဇာတ်အိမ်လေးနဲ့ drama လေးနှောပြီးကြည့်ကောင်းအောင်သွားပေးထားလို့Action/Drama ကြိုက်တဲ့ပရိတ်သတ်ကြီးအတွက်ကြည့်ကောင်းမယ့်ကားလေးတစ်ကားဖြစ်တယ်လို့လည်း ညွှန်းချင်ပါတယ်။
 crd cm"
@@ -305,10 +306,10 @@ crd cm
 "rate":"6.1",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/vzmpzn7238mxs7d/Dragons-Rescue-Riders-Hunt-for-the-Golden-Dragon-2020-SD-GC.mp4/file",
-"sdZ":"SD 409MB",
-"hd":"http://www.mediafire.com/file/r1dsy004y9kqmhc/Dragons-Rescue-Riders-Hunt-for-the-Golden-Dragon-2020-HD-GC.mp4/file",
-"hdZ":"HD 1.07GB",
+"sd":"130554048804416",
+"sdZ":"SD+HD",
+"hd":"130554048804416",
+"hdZ":"SD+HD",
 "fhd":"130554048804416",
 "fhdZ":"SD+HD (fb server)"
  },
@@ -507,10 +508,10 @@ crd cm"
 "rate":"7.3",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/6wznutacz4nurrv/Tribal-Get-Out-Alive-2020-SD-GC.mp4/file",
-"sdZ":"SD 314MB",
-"hd":"https://www.mediafire.com/file/b02mgdjwknopyhh/Tribal-Get-Out-Alive-2020-HD-GC.mp4/file",
-"hdZ":"HD 902MB",
+"sd":"https://drive.google.com/file/d/1vUclMqCgPGMUSMVsOP221cDUMnbpLDww/view?usp=sharing",
+"sdZ":"SD 314MB (GDrive)",
+"hd":"",
+"hdZ":"non",
 "fhd":"https://drive.google.com/file/d/1sOhANynogW_qHMEKmEaJxoWPzVpI580Z/view",
 "fhdZ":"SD+HD (GDrive)"
  },
@@ -990,7 +991,7 @@ CRD GC"
 "rate":"5.5",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/yyaarx7mtlphn1k/Attraction-2-2020-SD-GC.mp4/file",
+"sd":"https://megaup.net/4VF8i/Attraction-2-2020-SD-GC.mp4",
 "sdZ":"SD 490MB",
 "hd":"https://megaup.net/4fHG7/Attraction-2-2020-HD-GC.mp4",
 "hdZ":"HD 1GB",
@@ -1022,9 +1023,9 @@ crd gc"
 "rate":"5.5",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/qhmsa2jtj6beod0/Attraction-2017-SD-GC.mp4/file",
-"sdZ":"SD 488MB",
-"hd":"https://www.mediafire.com/file/atlyk8w745oxtpz/Attraction-2017-HD-GC.mp4/file",
+"sd":"",
+"sdZ":"non",
+"hd":"https://megaup.net/4fHmf/Attraction-2017-HD-GC.mp4",
 "hdZ":"HD 1.02GB",
 "fhd":"https://drive.google.com/file/d/1rFas2b5nbE_9trs1Q_JsFynCjh3iiTwz/view",
 "fhdZ":"SD+HD (GDrive)"
@@ -1055,10 +1056,10 @@ Crd GC"
 "rate":"4.5",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/elpognad384lnmn/A.Clear.Shot.2019.1080P.Amzn.Web-Dl.Ddp5.1.H.264-Cmrg.Mkv-Muxed-1.mp4/file",
-"sdZ":"SD 261MB",
-"hd":"http://www.mediafire.com/file/1e2yb9xnwarh3f5/A.Clear.Shot.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG.mkv-muxed.mp4/file",
-"hdZ":"HD 905MB",
+"sd":"",
+"sdZ":"non",
+"hd":"https://drive.google.com/file/d/1Q8vROW3ef6XcIZfqiLLedqrwQ2-IQWDH/view?usp=sharing",
+"hdZ":"SD (GDrive)",
 "fhd":"https://drive.google.com/file/d/1KBCxcJsJTYMVJqL-s4jnDCPwbvlFwkzA/view",
 "fhdZ":"SD+HD (GDrive)"
  },
@@ -1217,10 +1218,10 @@ CRD CM
 "rate":"6.3",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/cnsokql4r5v40th/file",
+"sd":"https://megaup.net/SBax/(CM)_Sputnik_(2020)_WEBRip_480p.mp4",
 "sdZ":"SD 366MB",
-"hd":"http://www.mediafire.com/file/rz4jpahmwceq5ql/file",
-"hdZ":"HD 902MB",
+"hd":"https://megaup.net/2ew64/(CM)_Sputnik_(2020)_WEBRip_720p.mp4",
+"hdZ":"HD 1GB",
 "fhd":"https://drive.google.com/file/d/1d4d9HVl5nSyuuNEui4Uf57s1L3UgKG-B/view",
 "fhdZ":"SD+HD (fb server)"
  },
@@ -1230,18 +1231,11 @@ CRD CM
  "link":""}
  ],
 "review":"
-ယခုတစ်ခါတင်ဆက်ပေးမယ့် ဇာတ်ကားလေး Sputnik ဆိုတဲ့ကားလေးပါ….. ယခုနှစ်မှထွက်ရှိထားပြီး…. IMDB 6.3 အထိ ရရှိထားတဲ့ဇာတ်ကားကောင်းလေးပါ…… ဒီဇာတ်ကားဟာဆိုရင် လုံး၀ကိုစိတ်ကူးယဥ်ပုံဖော်ထားတဲ့ဇာတ်လမ်းပါ … computer ရိုက်ချက်တွေကလည်း ကောင်းလွန်းပါတယ်….
-
-ကဲဇာတ်လမ်းလေးအကြောင်းပြောရမယ်ဆိုရင်… ၁၉ ရာစုနှစ်လောက်က အချိန်တွေကိုပြန်လည်ရိုက်ကူးထားတဲ့ဇာတ်ကားလို့လည်းပြောလို့ရပါတဟ်….. ဆိုဗီယက် ပြည်ထောင်စုက အာကာသထဲကို အာကာသလေယာဥ်တစ်စင်းလွှတ်တင်ခဲ့ပါတယ်.. အဲ့ဒီအာကာသ ယာဥ်က သူတို့သတ်မှတ်ထားတဲ့နေရာ အရောက်သွားဖို့အတွက်ပါ… ပြောရရင် အာကာသထဲမှာ စူးစမ်းလေ့လာဖို့အတွက်ပေါ့…
-
-ဒါပေမယ့် မထင်မှတ်ထားတာတွေ ဖြစ်လာခဲ့ပါတယ်…. ဒါကတော့ အာကာသထဲ ဂြိုလ်တစ်ခုပေါ်မှာရှိနေတဲ့… ကပ်ပါးတစ်ကောင်က အာကာသယာဥ်မှူးတစ်ယောက်ထဲကို ကပ်တွယ်လာခဲ့လို့ပါပဲ…. ဒီလိုနဲ့မြေပြင်ပေါ်ကိုဆင်းသက်လာချိန်မှာတော့.. ကပ်ပါးကကောင်ဟာ အာကာယာဥ်မှူး ခန္ဓာကိုယ်ထဲ နှင့်အတူ ကမ္ဘာမြေကိုရောက်လာပါတော့တယ်…
-
-ဒါတွေကို ကပ်ပါး အမှီပြုခံရတဲ့ အာကာသယာဥ်မှူး ဗက်ယူကော့ဗ် က လုံး၀ကိုမသိခဲ့ပါဘူး… ဘာလို့လည်းဆိုတော့ ကပ်ပါးကောင်က အလင်းရောင်မရှိတဲ့ ညဖက်အိပ်ပျော်နေတဲ့အခြေအနေ တစ်ခုမှာပဲ …လုပ်ရှားနိုင်လို့ပါ…ဒါတွေကြောင့် သူ့ကို… စစ်ထိန်းသိမ်းရေးစခန်းက ဖမ်းဆီးပြီးတော့ … စမ်းသပ်မှုတွေပြုလုပ်ပါတော့တယ်…
-
-ဒါပေမယ့်လည်း ဆေးဖက်ဆိုင်ရာ ကျွမ်းကျင်ပညာရှင်မရှိတာတွေကြောင့်…. တန်နာ ဆိုတဲ့ အမျိုးသမီး ဆရာ၀န်တစ်ယောက်ကို… ခေါ်ယူလိုက်ပါတယ်….. တန်နာကလည်း လူနာကို သာမာန်နေမကောင်းလို့တစ်ရက်တစ်လေ လာကြည့်ပေးရမယ်ဆိုပြီး ထင်နေပါတယ်…..
-
-ဒါပေမယ့် တန်နာ ထင်ခဲ့သလို မဖြစ်လာပဲ… ကပ်ပါးကြောင့်ဆိုတာသိလိုက်တဲ့အချိန်…… အဲ့ဒီကပ်ပါးကောင်ကိုလည်း စစ်ဗိုလ်ကြီးက … လက်နက် အဖြစ်အသုံးချဖို့ လူတွေကိုထိုးကျွေးနေတယ်ဆိုတာ သိသွားတဲ့အချိန်….. ဘာတွေဆက်ဖြစ်ကြဦးမလည်း……??
-CRD GC"
+IMDb rating 6.3နဲ့ Tomatoမှာ 89%ရထားတဲ့ ရုရှားသိပ္ပံကားကောင်းလေးတစ်ကားပါ။ရုရှားအာကာသယာဉ်မှူးနှစ်ယောက်ကို အာကာသထဲကိုစေလွှတ်လိုက်ပေမယ့်ပြန်ဆင်းသက်လာချိန်မှာ အက်ဆီးဒင့်တစ်ခုဖြစ်ပြီးအာကာသယာဉ်မှူးတစ်ယောက်သေပြီးနောက်တစ်ယောက်ရဲ့ကိုယ်ထဲမှာတော့ဂြိုလ်သားတစ်ကောင်ပါလာပါတယ်။
+အဲ့ဂြိုလ်သားကို အာကာသယာဉ်မှူးကိုယ်ထဲမှ ခွဲထုတ်ဖို့ကြိုးစားပေမယ့်
+ဂြိုလ်သားမရှိရင်အာကာသယာဉ်မှူးက ကျန်းမာရေးအလွန်ဆိုးရွားသွားပါတယ်။ဒါကြောင့် လူထုကိုလည်းမသိစေပဲနဲ့ စစ်ဘက်ကသူတွေရယ်ဆရာဝန်မတစ်ယောက်ရယ်က အာကာသယာဉ်မှူးအသက်အန္တရာယ်မဖြစ်စေပဲနဲ့သူတို့ကိုခွဲထုတ်လို့ရအောင် ခွဲခြမ်းစိတ်ဖြာမှုတွေလုပ်ပြီး ကြိုးစားကြပါတယ်။ဒါပေမယ့် တခြားမြှုပ်ကွက်တစ်ချို့ကို ဆရာဝန်မသိသွားတဲ့အခါမှာတော့…..တစ်ချို့အမေရိကန်ဂျင်းသိပ္ပံဂြိုလ်သားကားတွေနဲ့မတူပဲ ကြည့်လို့ကောင်းတဲ့ကားလေးတစ်ကားပါ။
+crd cm
+"
 },{
 "Bolseries":false,
 "type":"movie",
@@ -1379,10 +1373,10 @@ Crd GC
 "rate":"6.8",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/y7ut2db8dltssp4/Host-2020-SD-GC.mp4/file",
-"sdZ":"SD 198MB",
-"hd":"https://www.mediafire.com/file/pfxxhzspt5tekx1/Host-2020-HD-GC.mp4/file",
-"hdZ":"HD 903MB",
+"sd":"",
+"sdZ":"non",
+"hd":"https://drive.google.com/file/d/1LgzTnJqWwpQjB62nw7vbgI8Ha1SoPHfs/view?usp=sharing",
+"hdZ":"SD 200MB (GDrive)",
 "fhd":"https://drive.google.com/file/d/1ZSUMg8Xb1k-F5VyZ0U-Ubn7a6XZf67Vz/view",
 "fhdZ":"SD + HD (GDrive)"
  },
@@ -1412,10 +1406,10 @@ crd GC
 "rate":"5.7",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/xsbjwvz8zoe7fsy/Latte-and-the-Magic-Waterstone-2019-SD-GC.mp4/file",
+"sd":"https://drive.google.com/file/d/1IdJDUyYDEI6f2UMxmMZwQgyLdsm0yXms/view",
 "sdZ":"SD 299 MB",
-"hd":"https://www.mediafire.com/file/rdu4xldst7yx724/Latte-and-the-Magic-Waterstone-2019-HD-GC.mp4/file",
-"hdZ":"HD 803MB",
+"hd":"",
+"hdZ":"non",
 "fhd":"https://drive.google.com/file/d/1T5rPzZRdRWS1e4F8Z2SjEfAmmwzSVc2f/view",
 "fhdZ":"SD + HD (GDrive)"
  },
@@ -1472,10 +1466,10 @@ CRD CM"
 "rate":"7.4",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/ukbmnphwdwyp53n/Mardaani_2014_1080P_Bluray_X264_Aac_-_Ozlem.Mp4-Muxed-1.mp4/file",
-"sdZ":"SD 404MB",
-"hd":"http://www.mediafire.com/file/6cev6kvrvhztwal/Mardaani_2014_1080p_BluRay_x264_AAC_-_Ozlem.mp4-muxed.mp4/file",
-"hdZ":"HD 1.2GB",
+"sd":"https://drive.google.com/file/d/1HatswglY7zwM1UpRSDexfKEyC8neOMgU/view",
+"sdZ":"SD 404MB (GDrive)",
+"hd":"",
+"hdZ":"non",
 "fhd":"https://drive.google.com/file/d/1jO1IM5IvpIytDzwYsDNC1KnWFr2gz6ol/view",
 "fhdZ":"SD + HD GDrive"
  },
@@ -1502,10 +1496,10 @@ crd GC"
 "rate":"7.1",
  
  "movie":{
-"sd":"https://www.mediafire.com/file/s6ziavrcrm15jnt/file",
-"sdZ":"SD 437MB",
-"hd":"https://www.mediafire.com/file/ymb6gaizmckzycv/file",
-"hdZ":"HD 1.2GB",
+"sd":"https://drive.google.com/file/d/1XxTNqT8k2y-09WA047YAYPet3j1H88NH/view?usp=sharing",
+"sdZ":"SD 437MB (GDrive)",
+"hd":"",
+"hdZ":"non",
 "fhd":"https://drive.google.com/file/d/14xarmzkmtPVOtitbR7-pE_Okb7YulZc6/view",
 "fhdZ":"SD + HD GDrive"
  },
@@ -1565,9 +1559,9 @@ Crd CM"
 "rate":"7.7",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/aye5f4g1cz4wd14/Khuda-Haafiz-2020-SD-GC.m4v/file",
+"sd":"https://megaup.net/St3c/Khuda-Haafiz-2020-SD-GC.m4v",
 "sdZ":"SD 537MB",
-"hd":"http://www.mediafire.com/file/yoq0e4r4hal0z6q/Khuda-Haafiz-2020-HD-GC.mp4/file",
+"hd":"https://megaup.net/1yquc/Khuda-Haafiz-2020-HD-GC.mp4",
 "hdZ":"HD 1023MB",
 "fhd":"https://megaup.net/1yquc/Khuda-Haafiz-2020-HD-GC.mp4",
 "fhdZ":"HD 1023MB"
@@ -1608,10 +1602,10 @@ crd GC"
 "rate":"10",
  
  "movie":{
-"sd":"http://www.mediafire.com/file/gxyu56r7k26c6sj/Time-Loop-2020-SD-GC.mp4/file",
+"sd":"https://drive.google.com/file/d/1s8AQ0_gdjTbXjYVfIHwhO-QL0KNz_aLo/view?usp=sharing",
 "sdZ":"SD 328MB",
-"hd":"http://www.mediafire.com/file/aaycfn071elwg2u/Time-Loop-2020-HD-GC.mp4/file",
-"hdZ":"HD 900MB",
+"hd":"",
+"hdZ":"non",
 "fhd":"https://drive.google.com/file/d/1EE5YmOLvDyxSqmiCy7ROjWk6QXpiD2UJ/view?usp=sharing",
 "fhdZ":"SD + HD GDrive"
  },
