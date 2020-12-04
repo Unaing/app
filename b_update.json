@@ -1,15 +1,10 @@
 {
 "code":7,
-"ver":"Movie Plus",
+"ver":"Sorry Guys!",
 "playstore":false;
 "force_update":false;
-"cb_later":false;
-"about_ver":"ကျွန်တော်တို့ ဒီ Bmovies app မှာ ဇာတ်လမ်း အသစ်တွေမတင်တော့ပါဘူး
-
-Bmovies ကနေ Movie Plus အမည်နဲ့ တင်ပေးသွားမှာပါ 
-
-Movie Plus မှာ ဇာတ်လမ်းတွဲတွေ တိုက်ရိုက် live တွေပါ ကြည့်လို့ရပါပြီ။
-
-ဒါ့ကြောင့်မို့ တိုက်ရိုက် ဒေါင်းလုဒ် ကနေရယူပြီး အသုံးပြုနိုင်ပါပြီ။",
+"cb_later":true;
+"about_ver":"We do not upload new Movie on this app.
+  Contact Fb Page https://m.facebook.com/bmoviesapp",
 "link":"https://github.com/NaingHtetAg/apprelease/raw/master/Movie%20Plus.apk"
 }
