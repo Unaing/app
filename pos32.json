@@ -1,12 +1,9 @@
 {
-"ver_code":37,
-"update":"https://bit.ly/3ej8brw",
+"ver_code":38,
+"update":"https://bit.ly/3RMYkrx",
 "reset":5,
-"message":"New version 6.7.0
-- Auto Dark Mode
-- လစ်မစ်ပမာဏ ကို စာရင်းထဲတွင် အချိန်းအပြောင်းလုပ်လို့ရပြီ။
-- Session Expired ဘယ်အချိန်ဖြစ်မလဲကို Settings မှာကြည့်လို့ရပါပြီ။
-- အခြားပြောင်းလဲမှုများ။
+"message":"New version 6.7.1
+- Bugs fixed.
 
 ဒေါင်းလုဒ်အဆင်မပြေပါက Viber,Telegram,CB တို့တွင်ဖိုင်လာယူနိုင်သည်။
 "
