@@ -1,7 +1,10 @@
 {
-"key":"test1",
-"message":"Hello testing 123",
-"link":"https://t.me/nainghtet_aung",
-"is_promo":true,
-"buttonText":"Contact"
+"key":"verAlert",
+"message":"ဗားရှင်း 6.7.3 ပြောင်းလဲမှု
+- 3D စာရင်းချုပ်မှာ စာရင်းရဲ့ကော် တွက်မပေးတာပြင်ပြီး။
+- 6.7.2 မှာ Tablet အချို့နဲ့မကိုက်တာပြင်ပြီး။
+- Other minor bugs fixed.",
+"link":"",
+"is_promo":false,
+"buttonText":"Ok"
 }
