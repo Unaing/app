@@ -1,10 +1,11 @@
 {
-"ver_code":39,
-"update":"https://bit.ly/3SosCBb",
+"ver_code":40,
+"update":"https://bit.ly/3WdNZZ3",
 "reset":5,
-"message":"New version 6.7.2
-- ဂဏာန်းရိုက်ရင် Cursor မပေါ်တာပြင်ပြီး။
-- Print ထုတ်ရင် စာလုံး အသေးအကြီး ရွေးလို့ရပြီ။
+"message":"New Version 6.7.3
+- 3D စာရင်းချုပ်မှာ စာရင်းရဲ့ကော် တွက်မပေးတာပြင်ပြီး။
+- 6.7.2 မှာ Tablet အချို့နဲ့မကိုက်တာပြင်ပြီး။
+- Other minor bugs fixed.
 
 ဒေါင်းလုဒ်အဆင်မပြေပါက Viber,Telegram,CB တို့တွင်ဖိုင်လာယူနိုင်သည်။
 "
