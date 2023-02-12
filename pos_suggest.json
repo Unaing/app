@@ -1,8 +1,7 @@
 {
-"key":"protect",
-"message":"လစ်မစ် မှားပြီး ဖျောက်မိလို့ ပြန်ကြည့်ချင်ပါက ထိုးသား မှာ ကာဂဏာန်း အမည်ကိုဖျက်ပါ။
-အချိန်အလိုက်မှာလည်း ကဒ်အလိုက် ပြန်ဖျက်လို့ရပါတယ်။",
-"link":"",
-"is_promo":false,
-"buttonText":"Ok"
+"key":"helper_update",
+"message":"Pro နဲ့တွဲပြီးသုံးလို့ရတဲ့ အကူဆော့ဝဲ update 3.0 ထွက်ထားပါခင်ဗျာ။",
+"link":"https://bit.ly/pos32_helper",
+"is_promo":true,
+"buttonText":"Get it on PlayStore"
 }
