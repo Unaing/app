@@ -1,8 +1,11 @@
 {
-"key":"ver_73_alert",
+"key":"ver_731_all",
 "message":"
-  New Version 7.3.0 is available.
-  အမိုက်စား Helper Update လည်း မကြာမီ ရမည်။
+  New Version 7.3.1 is out now.
+  - Activate လုပ်ရတာ ခက်တာ ပြင်ပြီး။
+  - အခြားပြောင်းလဲမှု မရှိပါ။
+  ပိတ်ရက်မှသာ App Update ပြပေးပါမည်။
+  Page, Telegram, Viber တို့တွင်လည်း update လုပ်ရပါပြီ။
 ",
 "link":"https://bit.ly/pos32_helper",
 "is_promo":false,
