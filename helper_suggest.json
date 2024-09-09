@@ -1,13 +1,12 @@
 {
-"key":"welcome_4_5",
+"key":"ver_5.2",
 "message":"
-  What's new in Version 4.5 🔥<br> 
-  - Copy / Paste Function error fixed.<br>
-  If you are not using latest version, you can Update in PlayStore.<br>
+  <b>New Version 5.2 is available now.</b>🔥<br> 
+  
   Thanks for choosing our app. ❤️
 ",
-"link":"",
-"is_promo":false,
+"link":"https://play.google.com/store/apps/details?id=com.naing.pos.helper",
+"is_promo":true,
 
-"buttonText":"Ok"
+"buttonText":"Update Now"
 }
