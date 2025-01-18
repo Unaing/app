@@ -1,11 +1,13 @@
 {
-"ver_code":44444460,
-"update":"https://github.com/Unaing/apprelease/raw/master/Pro_8.0.7.apk",
+"ver_code":44444461,
+"update":"https://github.com/Unaing/apprelease/raw/refs/heads/master/Pro_8.1.0.apk",
 "reset":6,
-"message":"New Version 8.0.7 🔥
-- လစ်မစ် ၊ ဇယား စတာတွေ copy ယူရင်ထိုးကြေးတူတွေကိုချုံ့ပေးလိုက်ပါပြီ။
-- Copy မှာ ပါဝါ ဂဏာန်းပါရင် ထည့်မရတာပြင်ပြီး။
-
+"message":"New Version 8.1.0 🔥
+- ပိတ်ဂဏာန်းကို သီးသန့် မှတ်သားပေးတဲ့ ဇယား စနစ်။
+- လစ်မစ် ကို တစ်ကွက်ချင်း နှိပ်ကာလို့ရပါပြီ။
+- 2D ကော်ပီစနစ်အဟောင်း ကို ပြန်လိုချင်ရင် Settings မှာဖွင့်ပြီး သုံးလို့ရပါပြီ။
+- ပြေစာအတွက် ဖောင့် အရှည် နဲ့ ပြန်ထုတ်လို့ရပါပြီ။
+- Activate မှာ VPN လိုတာ ဆော့ဝဲ ဘက်မှာပြင်ထားပေးပြီး။
 ✅ update တင်ရတာမကြိုက်ပါက Settings မှာ ပိတ်ထားလို့ရပါသည်။
   
 Telegram ကနေ ဒေါင်းရန်
